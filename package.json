@@ -27,7 +27,7 @@
   "dependencies": {
     "@agoric/xsnap": "^0.10.0",
     "discord.js": "^12.5.2",
-    "ses": "^0.12.6"
+    "ses": "^0.18.8"
   },
   "devDependencies": {
     "ava": "^3.15.0",
